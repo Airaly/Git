@@ -70,7 +70,7 @@ public class StringCalculator {
 		}
 		Double d = new Double(stdd[0]);
 		String result = d.toString();
-		return result; // 返回值为结果的字符串对象
+		return result; // 返回值为结果的字符串对象 12
 	}
 
 	// 此函数用于计算包含括号的字符串
